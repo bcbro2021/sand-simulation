@@ -2,6 +2,6 @@
 A basic sand simulation thing
 
 
-## Requirments
+## Requirements
 ### Lua 5.4+
 ### love2d
